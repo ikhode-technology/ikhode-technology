@@ -11,6 +11,3 @@ I'm a **Software Engineer** who passionate on **coding** and build somethings to
 [![Portfolio](https://img.shields.io/badge/-discord-graypink?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/ySCGdyArHb)
 [![Portfolio](https://img.shields.io/badge/-telegram-red?style=flat&logo=telegram&logoColor=white)](https://t.me/SOYTET)
 ![GitHub followers](https://img.shields.io/github/followers/ikhode-technology?style=flat&logo=github&color=05122A&labelColor=05122A)
-![Profile Views](https://komarev.com/ghpvc/?username=ikhode-technology&style=flat&labelolor=05122A&color=05122A)
-
-
